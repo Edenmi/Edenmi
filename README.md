@@ -1,5 +1,7 @@
 ###  🐱 Hello everyone，I am ZH Fontana (小涵)！
 
+Im - ZH Fontana( Eden Mi \ 小涵 ), 🏳️‍⚧️ MTF 16 Y/O. | Welcome to my Github Account. See ZH's project and status here~
+
 ###  🔥 ALL Statistics
 
 ![ZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edenmi&count_private=true&include_all_commits=true&show_icons=true&&bg_color=30,16BFFD,CB3066&title_color=0b5394&icon_color=ff869a&role=OWNER,ORGANIZATION_MEMBER) 
