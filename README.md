@@ -23,6 +23,7 @@ I like cats the most, but I love my [@keyword233](https://t.me/keyword233) more~
 
 * 🇺🇸 English
 * 🇨🇳 中文
+* 🇰🇷 한국어
 
 ### ⭐ Projects
 
