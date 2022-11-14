@@ -2,7 +2,7 @@
 
 ###  🔥 ALL Statistics
 
-![ZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edenmi&count_private=true&include_all_commits=true&show_icons=true&&bg_color=30,16BFFD,CB3066&title_color=ff7d92&icon_color=ff869a&role=OWNER,ORGANIZATION_MEMBER) 
+![ZH's GitHub stats](https://github-readme-stats.vercel.app/api?username=Edenmi&count_private=true&include_all_commits=true&show_icons=true&&bg_color=30,16BFFD,CB3066&title_color=2986cc&icon_color=ff869a&role=OWNER,ORGANIZATION_MEMBER) 
 <img src="https://user-images.githubusercontent.com/22280294/179611382-5704fe4f-ef8c-40f2-b868-5921cfb56da6.png" alt="pusheen" height="160px">
 
 ###  📞 Contact
