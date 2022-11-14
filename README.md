@@ -1,10 +1,8 @@
-### 🏳️‍⚧️🍥 • ❤️🐱
-
 ###  🐱 Hello everyone，I am ZH Fontana (小涵)！
 
 ###  🔥 ALL Statistics
 
-![](https://github-readme-stats-one-bice.vercel.app/api?username=Edenmi&count_private=true&include_all_commits=true&show_icons=true&&bg_color=fc466b,3f5efb&title_color=ff7d92&text_color=ffb5c2&icon_color=ff869a&role=OWNER,ORGANIZATION_MEMBER)
+![](https://github-readme-stats.vercel.app/api?username=Edenmi&count_private=true&include_all_commits=true&show_icons=true&&bg_color=fc466b,3f5efb&title_color=ff7d92&text_color=ffb5c2&icon_color=ff869a&role=OWNER,ORGANIZATION_MEMBER) 
 <img src="https://user-images.githubusercontent.com/22280294/179611382-5704fe4f-ef8c-40f2-b868-5921cfb56da6.png" alt="pusheen" height="160px">
 
 ###  📞 Contact
@@ -33,3 +31,5 @@
 My PGP Signature:
 1DDD B1BB 62AB C9E5 2899  E4BA 6D8E A101 D710 D69E
 ```
+
+### 🏳️‍⚧️🍥 • ❤️🐱
