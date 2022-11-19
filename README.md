@@ -15,6 +15,7 @@ I like cats the most, but I love my [@keyword233](https://t.me/keyword233) more~
 - [![Send me Email](https://img.shields.io/static/v1?label=email&message=i@eden-official.co.uk&color=orange&style=flat-square)](mailto:i@eden-official.co.uk)
 - Discord`ZH#8888`
 - QQ `1474645393`
+- Wechat `zh_fontana`
 - Keybase [@zh_fontana](https://keybase.io/zh_fontana)
 - XMPP `zh-fontana@yax.im`
 - IRC Server: `irc.zhnet.co.uk 6697 ssl` channel: `cute-zh`
