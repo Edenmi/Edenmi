@@ -1,6 +1,6 @@
 ###  🐱 Hello everyone，I am Kitami Ashii ！
 
-Im - Kitami Ashii ( Eden Mi \ ZH Fontana ),CAT 16 Y/O. | Welcome to my Github Account. See ZH's project and status below~<br>
+Im - Kitami Ashii ( Eden Mi \ ZH Fontana ), CAT 16 Y/O. | Welcome to my Github Account. See ZH's project and status below~<br>
 I like cats the most, but I love my [@keyword233](https://t.me/keyword233) more~
 
 ###  🔥 ALL Statistics
