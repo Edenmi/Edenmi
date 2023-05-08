@@ -1,7 +1,7 @@
-###  🐱 Hello everyone，I am Kitami Ashii ！
+###  🐱 Hello everyone，I am ASH ！
 
-Im - Kitami Ashii ( Eden Mi \ ZH Fontana ), CAT 16 Y/O. | Welcome to my Github Account. See ZH's project and status below~<br>
-I like cats the most, but I love my [@keyword233](https://t.me/keyword233) more~
+Im - ASH Emily ( Eden Mi \ ZH Fontana ), CAT 16 Y/O. | Welcome to my Github Account. See ZH's project and status below~<br>
+I like cats the most, but **I love my [@keyword233](https://t.me/keyword233) more~**
 
 ###  🔥 ALL Statistics
 
@@ -10,12 +10,10 @@ I like cats the most, but I love my [@keyword233](https://t.me/keyword233) more~
 
 ###  📞 Contact
 
-- [![Chat on Telegram](https://img.shields.io/static/v1?&logo=telegram&label=Telegram&color=blue&message=@zh_210320&style=flat-square)](https://t.me/zh_210320)
+- [![Chat on Telegram](https://img.shields.io/static/v1?&logo=telegram&label=Telegram&color=blue&message=@zh_210320&style=flat-square)](https://t.me/ash_202888)
 - [![Follow my Twitter](https://img.shields.io/static/v1?&logo=twitter&label=Twitter&color=blue&message=ash_202888&style=flat-square)](https://twitter.com/ash_202888)
 - [![Send me Email](https://img.shields.io/static/v1?label=email&message=ashemily@outlook.kr&color=orange&style=flat-square)](mailto:ashemily@outlook.kr)
 - Discord`ZH#8888`
-- QQ `2460016651`
-- Wechat `yaki_202888`
 
 ### 🌎 I can speak
 
