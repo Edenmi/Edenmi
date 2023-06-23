@@ -1,6 +1,6 @@
-###  🐱 Hello everyone，I am ASH ！
+###  🐱 Hello everyone，I am ash ！
 
-Im - ASH Emily 爱牡蛎·梅川库子·灰 ( Eden Mi \ ZH Fontana ), CAT 16 Y/O. | Welcome to my Github Account. See ZH's project and status below~<br>
+Im - ash Inukai 爱牡蛎·梅川库子·灰 ( Eden Mi \ Ash Emily ), CAT 16 Y/O. | Welcome to my Github Account. See ash's project and status below~<br>
 I like cats the most, but **I love my [@keyword233](https://t.me/keyword233) more~**
 
 ###  🔥 ALL Statistics
