@@ -1,4 +1,4 @@
-###  🐱 Hello everyone，I am ash ！
+###  🐱 Hi，I am ash ！
 
 Im - ash Inukai 爱牡蛎·梅川库子·灰 ( Eden Mi \ Ash Emily ), CAT 17 Y/O. | Welcome to my Github Account. See ash's project and status below~<br>
 I like cats the most, but **I love my [@keyword233](https://t.me/keyword233) more~**
@@ -10,7 +10,7 @@ I like cats the most, but **I love my [@keyword233](https://t.me/keyword233) mor
 
 ###  📞 Contact
 
-- [![Chat on Telegram](https://img.shields.io/static/v1?&logo=telegram&label=Telegram&color=blue&message=@ash_202888&style=flat-square)](https://t.me/ash_202888)
+- [![Chat on Telegram](https://img.shields.io/static/v1?&logo=telegram&label=Telegram&color=blue&message=@ash_59538&style=flat-square)](https://t.me/ash_59538)
 - [![Send me Email](https://img.shields.io/static/v1?label=email&message=ash@zhnet.co.uk&color=orange&style=flat-square)](mailto:ash@zhnet.co.uk)
 - Discord`ash_202888`
 
